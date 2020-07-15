@@ -14,6 +14,8 @@ Curated list for resources related to robot manipulation
 
 # Books 
 
+# Video lectures
+
 # Relevant Research papers 
 
 # Libraries
