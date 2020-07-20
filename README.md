@@ -12,6 +12,8 @@ Curated list for resources related to robot manipulation
 
 4. https://cs.stanford.edu/groups/manips/teaching/cs327a/
 
+5. http://sirslab.dii.unisi.it/GraspingCourse/course.html
+
 
 # Books 
 <!-- - [Caption](https://example.com) -->
