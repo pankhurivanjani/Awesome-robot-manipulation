@@ -48,3 +48,38 @@ Curated list for resources related to robot manipulation
 
 
 # Github repos 
+
+Ref:
+
+https://github.com/GeorgeDu/vision-based-robotic-grasping
+
+https://github.com/Po-Jen/awesome-grasping
+
+
+1. https://github.com/andyzeng/visual-pushing-grasping
+
+2. https://github.com/andyzeng/arc-robot-vision
+
+3. https://github.com/eleramp/pybullet-object-models
+
+4. https://github.com/mahyaret/kuka_rl
+
+5. https://github.com/AutodeskRoboticsLab/RLRoboticAssembly
+
+6. https://github.com/benelot/pybullet-gym
+
+7. https://github.com/theprojectlist/robot-arm-simulation
+
+8. https://github.com/NariddhKhean/Robotic_Arm_DQN
+
+9. https://github.com/araffin/robotics-rl-srl
+
+10. https://github.com/yijiangh/pybullet_planning
+
+11. https://github.com/danfeiX/RPN
+
+12. https://github.com/oscar-lima/pybullet_ros
+
+13. https://github.com/jaks19/parallel_gripper_simulation_pybullet
+
+14. 
