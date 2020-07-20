@@ -55,6 +55,7 @@ https://github.com/GeorgeDu/vision-based-robotic-grasping
 
 https://github.com/Po-Jen/awesome-grasping
 
+https://github.com/StanfordVL/robosuite
 
 1. https://github.com/andyzeng/visual-pushing-grasping
 
